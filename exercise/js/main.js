@@ -110,6 +110,7 @@ function question9(){
 $('p').css ('color','blue');
 $('p').css ('font-family','Georgia');
 }
+
 $('#button9').on('click', question9);
 /**
  * Question 10:
